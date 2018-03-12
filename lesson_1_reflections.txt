@@ -1,0 +1,17 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I think about all the times I could have saved myself a headache looking through hundreds of lines of code
+looking for an error I created.  I just used the FC function in the Windows command prompt to see only the
+differences in the files. I can't wait to look at Git some more to find more ways to save myself some
+time as a developer.
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Saving time when I create errors in my code! That's usually the majority of my time is testing and fixing bugs.
+It is frustrating having to spend hours fixing something that you already fixed. I can get so much more accomplished.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The pros of manually choosing when to commit include flexibility over what code should be committed and how much at a time.
+The cons is that you may forget to save your changes.
