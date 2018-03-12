@@ -10,10 +10,19 @@ The staging area is for files that are ready to commit so that you can commit mu
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+by checking the files and changes made between the staging area and the last commit. Make sure that there is only
+one logical change in the difference in the files.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+when you have different versions of your application that require subtle changes. This is an easy way to keep organized. Moving on to
+a different set of work. Master branch is the production, others might include dev, or feature specific branches. Good for collaborating publically or
+alone. Compartmentalize work.
+
 How do the diagrams help you visualize the branch structure?
+
+I think it helps me understand how the commits are structured and how to organize my work.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
