@@ -5,6 +5,8 @@ Sets up the repository to track the status of files. To record your changes to f
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The staging area is for files that are ready to commit so that you can commit multiple files at once.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
