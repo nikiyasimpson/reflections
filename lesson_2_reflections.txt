@@ -27,5 +27,10 @@ I think it helps me understand how the commits are structured and how to organiz
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result of merging two branches together combines the changes from both branches into one.  For example, by combining the master and coins branches, all the commmits
+from both branches are merged into the master branch.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Cons for automatic merging is what if you don't want to merge a feature into production. I guess a pro would be in case you forgot to merge your changes into a branch.
